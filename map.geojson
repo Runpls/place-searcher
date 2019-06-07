@@ -1,0 +1,440 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7309745,
+                    10.7956676
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n L\u00e1 2",
+                "address": "64 \u0110\u01b0\u1eddng Tr\u1ea7n N\u00e3o",
+                "rating": 3.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.701559,
+                    10.8034046
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia S\u1ec7t Minh",
+                "address": "29 Phan Chu Trinh",
+                "rating": 3.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7099925,
+                    10.7913376
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia T\u01b0 C\u1ea5m",
+                "address": "58 Nguy\u1ec5n C\u00f4ng Tr\u1ee9",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6965472,
+                    10.8046475
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia 33",
+                "address": "33 Nguy\u1ec5n An Ninh",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7015844,
+                    10.8076036
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia 95",
+                "address": "234 B\u00f9i \u0110\u00ecnh Tu\u00fd",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.696823,
+                    10.794183
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n \u00dat M\u1eadp",
+                "address": "168 Tr\u01b0\u1eddng Sa",
+                "rating": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6993099,
+                    10.7931022
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n V\u00f2ng Xoay",
+                "address": "58 Ho\u00e0ng Sa",
+                "rating": 3.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7021704,
+                    10.8048173
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia H\u1ebbm 58 Phan Chu Trinh",
+                "address": "42/7 Phan Chu Trinh, Ph\u01b0\u1eddng 24,, 24 H\u1ebbm 125/150 B\u00f9i \u0110\u00ecnh T\u00fay",
+                "rating": 3.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.731132,
+                    10.795173
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Art Bia t\u00f4",
+                "address": "61 - 63 Tr\u1ea7n N\u00e3o",
+                "rating": 3.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7028558,
+                    10.8215299
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n D\u00ea \u0110\u1ea1i D\u01b0\u01a1ng",
+                "address": "311 Nguy\u1ec5n X\u00ed",
+                "rating": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7093092,
+                    10.8073612
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia Facific 79",
+                "address": "79 \u0110inh B\u1ed9 L\u0129nh",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6975438,
+                    10.7895247
+                ]
+            },
+            "properties": {
+                "name": "V\u01b0\u1eddn Bia 2F",
+                "address": "2F Nguy\u1ec5n Th\u00e0nh \u00dd",
+                "rating": 4.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7094577,
+                    10.7883316
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n C\u00e2y Xo\u00e0i",
+                "address": "2 M\u00ea Linh",
+                "rating": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6977756,
+                    10.7887729
+                ]
+            },
+            "properties": {
+                "name": "Ti\u1ec7m bia s\u1ed1 13",
+                "address": "S\u00e2n th\u01b0\u1ee3ng, 102 \u0110\u01b0\u1eddng Nguy\u1ec5n V\u0103n Th\u1ee7",
+                "rating": 4.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7324065,
+                    10.8032688
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Bia T\u01b0\u01a1i Pacific",
+                "address": "27 Qu\u1ed1c H\u01b0\u01a1ng",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6976,
+                    10.792375
+                ]
+            },
+            "properties": {
+                "name": "The Warehouse",
+                "address": "101 \u0110\u01b0\u1eddng Mai Th\u1ecb L\u1ef1u",
+                "rating": 4.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7170749,
+                    10.8040985
+                ]
+            },
+            "properties": {
+                "name": "Bia h\u01a1i H\u00e0 N\u1ed9i - Thu Thu\u1ef7 Qu\u00e1n",
+                "address": "Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Ho Chi Minh City, Vietnam",
+                "rating": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6955505,
+                    10.7930769
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Nh\u1eadu N\u0103m L\u1eeda",
+                "address": "121A Ho\u00e0ng Sa",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7092875,
+                    10.8078573
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n 79 Bia S\u00e0i G\u00f2n",
+                "address": "79 \u0110inh B\u1ed9 L\u0129nh, Ph\u01b0\u1eddng 26, Qu\u1eadn B\u00ecnh Th\u1ea1nh, Tp. H\u1ed3 Ch\u00ed Minh",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7083684,
+                    10.789096
+                ]
+            },
+            "properties": {
+                "name": "The Bia Corner & Riverside Pub",
+                "address": "66 Nguy\u1ec5n Ng\u1ecdc Ph\u01b0\u01a1ng",
+                "rating": 3.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.697626,
+                    10.789534
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n V\u01b0\u1eddn Bia",
+                "address": "2 Nguy\u1ec5n Th\u00e0nh \u00dd",
+                "rating": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6991045,
+                    10.7860416
+                ]
+            },
+            "properties": {
+                "name": "Hoa Vi\u00ean Brauhaus Minh Khai",
+                "address": "H\u1ebbm 18 Bis Nguy\u1ec5n Th\u1ecb Minh Khai",
+                "rating": 4.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7001156,
+                    10.7849923
+                ]
+            },
+            "properties": {
+                "name": "Huy b\u00e9o - Bia H\u01a1i H\u00e0 N\u1ed9i",
+                "address": "Nguy\u1ec5n Th\u1ecb Minh Khai",
+                "rating": 3.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7346096,
+                    10.8036464
+                ]
+            },
+            "properties": {
+                "name": "Biacraft Artisan Ale",
+                "address": "90 Xu\u00e2n Th\u1ee7y",
+                "rating": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6992904,
+                    10.7930949
+                ]
+            },
+            "properties": {
+                "name": "DEEP HOUSE BEER",
+                "address": "91D Ho\u00e0ng Sa",
+                "rating": 4.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.693522,
+                    10.789658
+                ]
+            },
+            "properties": {
+                "name": "Brewlliant - Craft Beer Gastropub",
+                "address": "58 V\u00f5 Th\u1ecb S\u00e1u",
+                "rating": 4.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7309786,
+                    10.7958001
+                ]
+            },
+            "properties": {
+                "name": "P\u00d3C N\u01b0\u1edbng & Bia",
+                "address": "62 \u0110\u01b0\u1eddng Tr\u1ea7n N\u00e3o",
+                "rating": 4.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6935163,
+                    10.7945619
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n L\u1ea9u G\u00e0 N\u00f2i",
+                "address": "165 Ho\u00e0ng Sa",
+                "rating": 3.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.709571,
+                    10.79317
+                ]
+            },
+            "properties": {
+                "name": "Black Coffee & Beer",
+                "address": "8 \u0110\u01b0\u1eddng Ng\u00f4 T\u1ea5t T\u1ed1",
+                "rating": 4.5
+            }
+        }
+    ]
+}
